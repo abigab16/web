@@ -1,0 +1,70 @@
+
+ 
+/* Estilp del titulo principal de arriba */
+
+#principal {
+
+	/* Tamaño de letra */
+	font-size: 50px;
+	/* Fondo de letra */
+	background-color:#0FFF45;
+	/* Color de letra*/
+	color:#7416AD;
+	text-align: center;
+	background-image: url("Imagenes/imagen 1.jpeg");
+ 
+}
+ 
+/* Atributo id */
+
+#mitexto {
+			/* Tamaño de letra */
+			font-size: 35px;
+			/* Fondo de letra */
+			/* Color de letra */
+			color:#FFFFFF;
+			text-align: center;
+	}
+
+/* Atributo class */
+
+#mitexto2 {
+			/* Tamaño de letra */
+			font-size: 60px;
+			/* Fondo de letra */
+			/* Color de letra */
+			color: #FFFFFF;
+			text-align: center;
+	}
+
+
+#segundo {
+			/* Tamaño de letra */
+			font-size: 50px;
+			/* Fondo de letra */
+
+			/* Color de letra */
+			color: #FFFFFF;
+			text-align: center;
+	}
+
+#cambio {
+	font-family: Vernada, sans-serif;
+	font-size: 26px;
+	color: #DC00FF;
+	}
+
+html {
+background-color: #BCB8C9;
+}
+
+html {
+background-color: #BCB8C9;
+}
+
+#imagen {
+		width: 50%;
+		border-image-slice: 29;
+		border-image-repeat: stretch;
+		box-shadow: rgb(150,150,150) 10px 10px 20px 10px;
+	}
